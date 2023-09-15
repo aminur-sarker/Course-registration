@@ -1,0 +1,68 @@
+[
+    {
+        "cover_img": "https://i.ibb.co/CBG0mmT/9828072-3339.jpg",
+        "course_name": "Introduction to Web Development",
+        "details": "Learn the basics of web development and HTML/CSS.",
+        "price": 80,
+        "credit_hour": 4
+    },
+    {
+        "cover_img": "https://i.ibb.co/rk9yNp4/9469582.jpg",
+        "course_name": "Data Science Fundamentals",
+        "details": "Explore data analysis and machine learning techniques.",
+        "price": 140,
+        "credit_hour": 4
+    },
+    {
+        "cover_img": "https://i.ibb.co/ZL3Fmh0/4523411-2394481.jpg",
+        "course_name": "Graphic Design Mastery",
+        "details": "Master Adobe Photoshop and Illustrator for design projects.",
+        "price": 130,
+        "credit_hour": 2
+    },
+    {
+        "cover_img": "https://i.ibb.co/k4rWLXZ/16683393-5794866.jpg",
+        "course_name": "Mobile App Development with React Native",
+        "details": "Build cross-platform mobile apps using React Native.",
+        "price": 120,
+        "credit_hour": 4
+    },
+    {
+        "cover_img": "https://i.ibb.co/Y7cjcZR/ai-site-helping-with-software-production.jpg",
+        "course_name": "Advanced Python Programming",
+        "details": "Deepen your Python skills with advanced concepts.",
+        "price": 150,
+        "credit_hour": 3
+    },
+    {
+        "cover_img": "https://i.ibb.co/mBLVMz8/stock-market-exchange-economics-investment-graph.jpg",
+        "course_name": "Financial Planning and Investment",
+        "details": "financial planning that takes into account your current financial situation, future goals, and risk tolerance",
+        "price": 100,
+        "credit_hour": 3
+    },
+    {
+        "cover_img": "https://i.ibb.co/Y7cjcZR/ai-site-helping-with-software-production.jpg",
+        "course_name": "Advanced C++ Programming",
+        "details": "Deepen your programming skills with advanced concepts.",
+        "price": 70,
+        "credit_hour": 2
+    },
+
+    {
+        "cover_img": "https://i.ibb.co/vV38yyx/ai-technology-microchip-background-digital-transformation-concept.jpg",
+        "course_name": "Artificial Intelligence Ethics and Governance",
+        "details": "AI acts as intended, fosters moral values and enables human accountability and understanding..",
+        "price": 120,
+        "credit_hour": 3
+    },
+
+    {
+        "cover_img": "https://i.ibb.co/vcBsbzz/gamer-sitting-chair-full-shot.jpg",
+        "course_name": "Game Development with Unity",
+        "details": "Game development process to the following five stages: Prototyping, progress, ship, watch, and repeat.",
+        "price": 90,
+        "credit_hour": 2
+    }
+]
+
